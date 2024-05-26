@@ -1,6 +1,6 @@
 {
-    "name": "gamal_home_furniture",
-    "short_name": "gamal_home_furniture",
+    "name": "portfolio_web",
+    "short_name": "portfolio_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
